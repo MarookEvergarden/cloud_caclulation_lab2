@@ -1,5 +1,4 @@
-name: Lint-Check
-
+name: Super-Linter
 on: push
 jobs:
   super-lint:
